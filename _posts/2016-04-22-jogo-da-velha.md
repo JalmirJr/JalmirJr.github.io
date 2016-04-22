@@ -14,13 +14,13 @@ forma 3x3, para isso precisaremos usar um contador para se qubrar uma linha:
 
 ```python
 
-board = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-def board_show():
-	count = 1
+	board = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+	def board_show():
+		count = 1
 
-	for i in board:
-		if count % 3 == 0:
-			print i
-		else:
-			print i,
-		count = count + 1
+		for i in board:
+			if count % 3 == 0:
+				print i
+			else:
+				print i,
+			count = count + 1
