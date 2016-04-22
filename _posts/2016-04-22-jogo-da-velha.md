@@ -13,9 +13,8 @@ para isso usamos um loop para imprimir todos os 9 elementos dela. Porem nao sera
 forma 3x3, para isso precisaremos usar um contador para se qubrar uma linha: 
 
 ```python
-	board = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-	
-	def board_show():
+board = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+def board_show():
 	count = 1
 
 	for i in board:
