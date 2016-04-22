@@ -3,11 +3,11 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Osuh"
+description:        "aprendendo python"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//jalmirjr.github.io"
+url:                "//osuh.github.io"
 author:             "gfjaru"
 twitter:
   username:         "gfjaru"
@@ -26,9 +26,7 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "//osuh.github.io/about"
 
 # Sass
 sass:
